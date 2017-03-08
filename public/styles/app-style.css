@@ -1,0 +1,40 @@
+body{
+  padding-top:10px;
+}
+
+.glyphicon-book {
+  font-size:130px;
+  color:#4B77BE;
+}
+
+.appName {
+  color:#ECF0F1 !important;
+}
+
+.jumbotron {
+  background-color: #59ABE3 !important;
+}
+
+.tableHead{
+  background-color: #4B77BE;
+  color: #EEEEEE;
+}
+
+.tableCell {
+  margin: 2px;
+}
+
+.tableData {
+  background-color: #EEEEEE;
+  font-size:14px;
+  color: #6C7A89;
+  line-height: 35px;
+}
+
+.glyphicon-barcode {
+  color:#757D75;
+}
+
+.pageHeader {
+  color: #FFA400;
+}
